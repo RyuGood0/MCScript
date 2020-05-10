@@ -1,6 +1,0 @@
-0 DEF   a (Hi);
-0 PRINT (a);
-0 DEF   b (1);
-0 PRINT (b);
-0 DEF   F (3);
-0 PRINT (F);
