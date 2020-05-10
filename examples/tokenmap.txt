@@ -40,19 +40,3 @@ or {T_OR}
 . {T_DOT}
 : {T_COLON}
 ; {T_SEMI}
-
-# statements -------------------------------------------------------------------------------
-
-if {T_IF}
-else {T_ELSE}
-elsif {T_ELSIF}
-while {T_WHILE}
-for {T_FOR}
-repeat {T_REPEAT}
-try {T_TRY}
-import {T_IMPORT}
-
-# others ------------------------------------------------------------------------------------
-
-deftype {T_DEFOB}
-defun {T_DEFUN}
