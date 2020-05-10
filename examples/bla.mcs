@@ -1,0 +1,5 @@
+a = 1
+b = "hi"
+b = "I'm not going ok"
+print(b)
+print(a)

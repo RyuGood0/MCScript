@@ -1,0 +1,5 @@
+0 DEF   a (1);
+0 DEF   b (hi);
+0 DEF   b (I'm not going ok);
+0 PRINT (b);
+0 PRINT (a);

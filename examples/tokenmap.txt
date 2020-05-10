@@ -1,0 +1,58 @@
+# binary ops -------------------------------------------------------------------------------
+
+@ {T_AT} # selector
+= {T_EQ}
+> {T_SUP}
+< {T_INF}
+<= {T_INFEQ}
+>= {T_SUPEQ}
+!= {T_NOTEQ}
+! {T_NOT}
+or {T_OR}
+
+# operators ---------------------------------------------------------------------------------
+
++ {T_PLUS}
+- {T_MIN}
+/ {T_DIVIDE}
+/= {T_DIVEQ}
+* {T_MULT}
+*= {T_MULTEQ}
+^ {T_EXP}
+++ {T_INCR}
+-- {T_DECR}
++= {T_PLUSEQ}
+-= {T_MINEQ}
+~ {T_WIG}
+% {T_PERCENT}
+
+# utilities ---------------------------------------------------------------------------------
+
+[ {T_RBRAK}
+] {T_LBRAK}
+{ {T_RCURLY}
+} {T_LCURLY}
+( {T_RPAREN}
+) {T_LPAREN}
+, {T_COMMA}
+" {T_QUOTE}
+# {T_HASHTAG}
+. {T_DOT}
+: {T_COLON}
+; {T_SEMI}
+
+# statements -------------------------------------------------------------------------------
+
+if {T_IF}
+else {T_ELSE}
+elsif {T_ELSIF}
+while {T_WHILE}
+for {T_FOR}
+repeat {T_REPEAT}
+try {T_TRY}
+import {T_IMPORT}
+
+# others ------------------------------------------------------------------------------------
+
+deftype {T_DEFOB}
+defun {T_DEFUN}

@@ -1,0 +1,17 @@
+a = "Hi"
+# ignore
+print(a)
+
+# ignore this
+
+b = 1 # on line
+
+## paragraphe
+easy life
+##
+
+print(b)
+
+F = 3
+
+print(F)
