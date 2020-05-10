@@ -1,3 +1,5 @@
 # MCScript
 
-MCScript is an object-based programming language made to be easy to use, yet powerful.
+Work In Progress
+
+MCScript is a programming language designed to be easy to use, yet powerful.
